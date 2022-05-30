@@ -54,21 +54,21 @@ Config.VitrineRewards = {
         ["item"] = "rolex",
         ["amount"] = {
             ["min"] = 1,
-            ["max"] = 4
+            ["max"] = 5
         },
     },
     [2] = {
         ["item"] = "diamond_ring",
         ["amount"] = {
-            ["min"] = 1,
-            ["max"] = 4
+            ["min"] = 5,
+            ["max"] = 10
         },
     },
     [3] = {
         ["item"] = "goldchain",
         ["amount"] = {
             ["min"] = 1,
-            ["max"] = 4
+            ["max"] = 5
         },
     },
 }
@@ -101,7 +101,7 @@ Config.Locations = {
     },
     [6] = {
         ["coords"] = vector3(-626.7, -238.58, 38.05),
-      ["isOpened"] = false,
+        ["isOpened"] = false,
         ["isBusy"] = false,
     },
     [7] = {
